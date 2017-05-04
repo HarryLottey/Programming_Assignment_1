@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A46281AB-1F67-60A2-64E9-88F7C9F69FC9}") = "Topdown_Shooter_Programming_Assignment_1", "Assembly-CSharp.csproj", "{A5BFA72C-6906-B829-EEAB-CCC2BFDE6666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BFA72C-6906-B829-EEAB-CCC2BFDE6666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BFA72C-6906-B829-EEAB-CCC2BFDE6666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BFA72C-6906-B829-EEAB-CCC2BFDE6666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BFA72C-6906-B829-EEAB-CCC2BFDE6666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
